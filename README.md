@@ -1,4 +1,4 @@
-# BasicAppAngular16
+# Basic App Angular 16 with Bootstrap 5, Font Awesome 6 and PrimeNg 16
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
